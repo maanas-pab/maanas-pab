@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <sub>Economics student in Austin, TX.</sub><br/>
+  <sub>Economics student @ UT Austin.</sub><br/>
   <sub>I build things at the intersection of markets, technology, and art —</sub><br/>
   <sub>then paint them so the theory is easier to swallow.</sub>
 </p>
