@@ -41,7 +41,7 @@ learning that a good chart beats a good argument.
 
 <p align="center">
   <a href="https://github.com/maanas-pab">github</a> ·
-  <a href="mailto:maanas.pabbathi@utexas.edu">email</a>
+  <a href="mailto:maanas.pabbathi@utexas.edu">email</a> ·
   <a href="https://www.linkedin.com/in/maanas-pabbathi/">linkedin</a>
 </p>
 
