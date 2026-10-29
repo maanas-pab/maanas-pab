@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="44" viewBox="0 0 920 44" role="img" aria-label="Repository ticker">
+  <defs>
+    <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeR" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1"/>
+    </linearGradient>
+    <clipPath id="clip"><rect x="0" y="0" width="920" height="44"/></clipPath>
+  </defs>
+  <rect x="0" y="0" width="920" height="44" fill="#0d1117"/>
+  <rect x="0" y="0.5" width="920" height="1" fill="#21262d"/>
+  <rect x="0" y="42.5" width="920" height="1" fill="#21262d"/>
+  <g clip-path="url(#clip)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-3312 0" dur="70s" repeatCount="indefinite"/>
+      <text x="0" y="27" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" xml:space="preserve"><tspan fill="#7ee787">rent-canvas</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">wage-brush-economics</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">gentrification-painter</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">auction-fever-simulator</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">color-stock-market</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">inflation-easel</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">starving-artist-simulator</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">pixel-gallery-market</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">art-money-flow</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">museum-vs-street</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">optiflow</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">financial-modeling-toolkit</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">modern-portfolio-theory-mpt-optimizer</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">black-scholes-and-monte-carlo-option-pricer</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">rent-canvas</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">wage-brush-economics</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">gentrification-painter</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">auction-fever-simulator</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">color-stock-market</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">inflation-easel</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">starving-artist-simulator</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">pixel-gallery-market</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">art-money-flow</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">museum-vs-street</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">optiflow</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">financial-modeling-toolkit</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">modern-portfolio-theory-mpt-optimizer</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#7ee787">black-scholes-and-monte-carlo-option-pricer</tspan><tspan fill="#484f58">  ·  </tspan></text>
+    </g>
+  </g>
+  <rect x="0" y="1" width="70" height="42" fill="url(#fadeL)"/>
+  <rect x="850" y="1" width="70" height="42" fill="url(#fadeR)"/>
+</svg>
