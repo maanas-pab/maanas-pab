@@ -3,7 +3,7 @@
 </p>
 
 <marquee behavior="scroll" direction="left" scrollamount="3" style="opacity:0.75">
-  <code>rent-canvas</code> &nbsp;·&nbsp; <code>wage-brush-economics</code> &nbsp;·&nbsp; <code>gentrification-painter</code> &nbsp;·&nbsp; <code>auction-fever-simulator</code> &nbsp;·&nbsp; <code>color-stock-market</code> &nbsp;·&nbsp; <code>inflation-easel</code> &nbsp;·&nbsp; <code>starving-artist-simulator</code> &nbsp;·&nbsp; <code>pixel-gallery-market</code> &nbsp;·&nbsp; <code>art-money-flow</code> &nbsp;·&nbsp; <code>museum-vs-street</code> &nbsp;·&nbsp; <code>optiflow</code> &nbsp;·&nbsp; <code>financial-modeling-toolkit</code> &nbsp;·&nbsp; <code>modern-portfolio-theory-mpt-optimizer</code> &nbsp;·&nbsp; <code>black-scholes-and-monte-carlo-option-pricer</code> &nbsp;·&nbsp;
+  <code>rent-canvas</code>&nbsp;·&nbsp;<code>wage-brush-economics</code>&nbsp;·&nbsp;<code>gentrification-painter</code>&nbsp;·&nbsp;<code>auction-fever-simulator</code>&nbsp;·&nbsp;<code>color-stock-market</code>&nbsp;·&nbsp;<code>inflation-easel</code>&nbsp;·&nbsp;<code>starving-artist-simulator</code>&nbsp;·&nbsp;<code>pixel-gallery-market</code>&nbsp;·&nbsp;<code>art-money-flow</code>&nbsp;·&nbsp;<code>museum-vs-street</code>&nbsp;·&nbsp;<code>optiflow</code>&nbsp;·&nbsp;<code>financial-modeling-toolkit</code>&nbsp;·&nbsp;<code>modern-portfolio-theory-mpt-optimizer</code>&nbsp;·&nbsp;<code>black-scholes-and-monte-carlo-option-pricer</code> &nbsp;·&nbsp;
 </marquee>
 
 <p align="center">
